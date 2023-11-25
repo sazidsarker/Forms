@@ -9,7 +9,7 @@ making form by using HTML
     <title>Document</title>
 </head>
 <body>
-   <pre style="background-color: aquamarine;">
+   <pre style="background-color: peru;">
       <form action="/action.php">
         <input type="text" placeholder="Username or Email">
         <br>
